@@ -1,0 +1,67 @@
+
+% Preamble
+\documentclass[11pt]{article}
+
+% Packages
+\usepackage{amsmath}
+\usepackage{lstdoc}
+\usepackage{graphicx}
+\usepackage{beamerbasetoc}
+\graphicspath{{../notes/plots/eda}}
+% Document
+\begin{document}
+After long deep research I try to parse info from Meteo.LT.
+Link for source \href{https://api.meteo.lt/}{https://api.meteo.lt/}
+
+\tableofcontents
+\newpage
+
+\section{Download}
+Daily
+Hourly
+Mothly
+
+\section{Variables}
+
+
+\section{EDA}
+\begin{center}
+    \includegraphics[width=\textwidth]{average_hourly_wind_speed}
+\end{center}
+
+\begin{center}
+    \includegraphics[width=\textwidth]{Average_Hourly_Relative_Humidity}
+\end{center}
+
+\begin{center}
+    \includegraphics[width=\textwidth]{Corr_heat_map}
+\end{center}
+This plot shows how variables by every station correlate with each other.
+So we could highlight next one:
+
+\begin{center}
+    \includegraphics[width=\textwidth]{hourly_pressure_cycle}
+\end{center}
+\begin{center}
+    \includegraphics[width=\textwidth]{hourly_temps}
+\end{center}
+\begin{center}
+    \includegraphics[width=\textwidth]{temp_vs_humidity_scatter_plot}
+\end{center}
+\begin{center}
+    \includegraphics[width=\textwidth]{Temperature_Distribution_Boxplot}
+\end{center}
+\begin{center}
+    \includegraphics[width=\textwidth]{Total_Hourly_Precipitation}
+\end{center}
+\begin{center}
+    \includegraphics[width=\textwidth]{wind_dir_polar_plot}
+\end{center}
+
+\section{Some extra plots}
+    \begin{itemize}
+        \item \href{}{Lithuania Map with distancce between each station}
+        \item \href{}{Lithuania "Meredian" Map with distancce between each station}
+        \item \href{}{Lithuania Map with the shortest distancce between each station}
+    \end{itemize}
+\end{document}

@@ -1,0 +1,24 @@
+group_id,road_path,total_distance_km,segment_distances,group_number
+Group 1 (Vertical),Nidos -> Ventės -> Klaipėdos -> Kretingos,77.66,Nidos -> Ventės: 12.35 km; Ventės -> Klaipėdos: 43.91 km; Klaipėdos -> Kretingos: 21.40 km,1
+Group 2 (Vertical),Šilutės -> Vėžaičių -> Skuodo,103.07,Šilutės -> Vėžaičių: 41.04 km; Vėžaičių -> Skuodo: 62.03 km,2
+Group 3 (Vertical),Plungės -> Rietavo -> Pagėgių,86.06,Plungės -> Rietavo: 21.80 km; Rietavo -> Pagėgių: 64.26 km,3
+Group 4 (Vertical),Laukuvos -> Tauragės -> Telšių -> Mažeikių,161.61,Laukuvos -> Tauragės: 39.27 km; Tauragės -> Telšių: 81.78 km; Telšių -> Mažeikių: 40.56 km,4
+Group 5 (Vertical),Akmenės -> Kelmės -> Jurbarko -> Kybartų,182.03,Akmenės -> Kelmės: 70.29 km; Kelmės -> Jurbarko: 60.43 km; Jurbarko -> Kybartų: 51.31 km,5
+Group 6 (Vertical),Šakių -> Kalvarijos -> Raseinių -> Šiaulių,230.55,Šakių -> Kalvarijos: 59.86 km; Kalvarijos -> Raseinių: 108.45 km; Raseinių -> Šiaulių: 62.23 km,6
+Group 7 (Vertical),Marijampolės -> Lazdijų -> Kazlų Rūdos -> Joniškio,258.98,Marijampolės -> Lazdijų: 34.60 km; Lazdijų -> Kazlų Rūdos: 52.06 km; Kazlų Rūdos -> Joniškio: 172.33 km,7
+Group 8 (Vertical),Šeduvos -> Pakruojo -> Dotnuvos -> Kauno -> Birštono -> Druskininkų,270.59,Šeduvos -> Pakruojo: 37.96 km; Pakruojo -> Dotnuvos: 76.58 km; Dotnuvos -> Kauno: 57.04 km; Kauno -> Birštono: 33.80 km; Birštono -> Druskininkų: 65.22 km,8
+Group 9 (Vertical),Prienų -> Alytaus -> Jonavos,109.65,Prienų -> Alytaus: 35.26 km; Alytaus -> Jonavos: 74.39 km,9
+Group 10 (Vertical),Panevėžio -> Kaišiadorių -> Elektrėnų -> Varėnos,176.33,Panevėžio -> Kaišiadorių: 97.78 km; Kaišiadorių -> Elektrėnų: 18.01 km; Elektrėnų -> Varėnos: 60.54 km,10
+Group 11 (Vertical),Ukmergės -> Trakų -> Kupiškio -> Biržų,248.93,Ukmergės -> Trakų: 72.18 km; Trakų -> Kupiškio: 137.79 km; Kupiškio -> Biržų: 38.96 km,11
+Group 12 (Vertical),Vilniaus -> Šalčininkų -> Anykščių,174.54,Vilniaus -> Šalčininkų: 39.18 km; Šalčininkų -> Anykščių: 135.37 km,12
+Group 13 (Vertical),Molėtų -> Utenos -> Rokiškio,82.01,Molėtų -> Utenos: 33.06 km; Utenos -> Rokiškio: 48.95 km,13
+Group 14 (Vertical),Švenčionių -> Dūkšto -> Zarasų,69.19,Švenčionių -> Dūkšto: 43.82 km; Dūkšto -> Zarasų: 25.36 km,14
+Group 15 (Horizontal),Lazdijų -> Kalvarijos -> Alytaus -> Varėnos -> Šalčininkų,174.1,Lazdijų -> Kalvarijos: 28.46 km; Kalvarijos -> Alytaus: 54.96 km; Alytaus -> Varėnos: 36.66 km; Varėnos -> Šalčininkų: 54.03 km,15
+Group 16 (Horizontal),Marijampolės -> Kybartų -> Kazlų Rūdos -> Birštono -> Trakų -> Vilniaus,190.94,Marijampolės -> Kybartų: 38.57 km; Kybartų -> Kazlų Rūdos: 47.80 km; Kazlų Rūdos -> Birštono: 35.31 km; Birštono -> Trakų: 48.45 km; Trakų -> Vilniaus: 20.82 km,16
+Group 17 (Horizontal),Prienų -> Kauno -> Kaišiadorių -> Elektrėnų,78.94,Prienų -> Kauno: 22.16 km; Kauno -> Kaišiadorių: 38.76 km; Kaišiadorių -> Elektrėnų: 18.01 km,17
+Group 18 (Horizontal),Šakių -> Pagėgių -> Jurbarko -> Jonavos -> Švenčionių,342.69,Šakių -> Pagėgių: 72.63 km; Pagėgių -> Jurbarko: 52.78 km; Jurbarko -> Jonavos: 96.07 km; Jonavos -> Švenčionių: 121.22 km,18
+Group 19 (Horizontal),Molėtų -> Ukmergės -> Dotnuvos -> Raseinių -> Tauragės -> Šilutės -> Ventės -> Nidos,285.87,Molėtų -> Ukmergės: 41.85 km; Ukmergės -> Dotnuvos: 58.61 km; Dotnuvos -> Raseinių: 46.46 km; Raseinių -> Tauragės: 56.40 km; Tauragės -> Šilutės: 53.84 km; Šilutės -> Ventės: 16.37 km; Ventės -> Nidos: 12.35 km,19
+Group 20 (Horizontal),Utenos -> Dūkšto -> Anykščių -> Kelmės -> Laukuvos,303.71,Utenos -> Dūkšto: 45.89 km; Dūkšto -> Anykščių: 75.70 km; Anykščių -> Kelmės: 138.27 km; Kelmės -> Laukuvos: 43.85 km,20
+Group 21 (Horizontal),Rietavo -> Vėžaičių -> Klaipėdos -> Kretingos -> Plungės -> Šeduvos -> Panevėžio -> Kupiškio -> Zarasų,392.73,Rietavo -> Vėžaičių: 30.41 km; Vėžaičių -> Klaipėdos: 24.08 km; Klaipėdos -> Kretingos: 21.40 km; Kretingos -> Plungės: 37.16 km; Plungės -> Šeduvos: 118.76 km; Šeduvos -> Panevėžio: 42.43 km; Panevėžio -> Kupiškio: 33.48 km; Kupiškio -> Zarasų: 85.02 km,21
+Group 22 (Horizontal),Šiaulių -> Telšių -> Pakruojo -> Rokiškio,276.71,Šiaulių -> Telšių: 67.32 km; Telšių -> Pakruojo: 103.12 km; Pakruojo -> Rokiškio: 106.27 km,22
+Group 23 (Horizontal),Biržų -> Joniškio -> Akmenės -> Mažeikių -> Skuodo,205.51,Biržų -> Joniškio: 71.18 km; Joniškio -> Akmenės: 55.79 km; Akmenės -> Mažeikių: 28.07 km; Mažeikių -> Skuodo: 50.46 km,23
