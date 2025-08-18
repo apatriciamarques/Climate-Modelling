@@ -1,5 +1,5 @@
 # 🌍 Climate in the Light of Mathematical Equations 
-**ECMI Modelling Week 2025**  
+**ECMI Modeling Week 2025**  
 **Kaunas University of Technology, Lithuania**  
 **Date:** July 5, 2025  
 
@@ -25,7 +25,7 @@ Our goal is to understand the dynamics of a one-dimensional fluid system influen
 
 ## 🧮 Methodologies
 
-### 1. PDE-Based Modelling
+### 1. PDE-Based Modeling
 
 We simulate atmospheric behavior using a system of partial differential equations (PDEs) derived from the **Euler equations**. These equations are closed with the **ideal gas law** and numerically solved using the **Lax–Friedrichs scheme** after discretization.
 
